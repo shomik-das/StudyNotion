@@ -29,7 +29,7 @@ Additionally, we use some npm packages to add extra functionality to the front e
 
 
 ![studynotion1](photos/1.png)
-![studynotion2](photos/2.png)
+![studynotion2](photos/3.png)
 
 
 ## Back-end
@@ -84,3 +84,4 @@ Sample API requests and responses:
 The database for the platform is built using MongoDB, a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data. The database stores the course content, user data, and other relevant information related to the platform.
 
 ![studynotion2](photos/schema.png)
+
